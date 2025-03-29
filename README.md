@@ -1,4 +1,6 @@
 # Morphological and genetic screens reveal mechanisms of BiDAC-induced plasma membrane protein degradation
+![image](https://github.com/user-attachments/assets/cf9a592b-192a-4cbe-83e3-f126252f9751)
+
 This repository contains accompanying analysis code for the paper titled "Morphological and genetic screens reveal
 mechanisms of BiDAC-induced plasma membrane protein degradation".
 
